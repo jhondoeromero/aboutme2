@@ -8,3 +8,6 @@ body{
     background-color: black;
     color: #eee;
 }
+.project-img{
+    height: 250px !important;
+}
